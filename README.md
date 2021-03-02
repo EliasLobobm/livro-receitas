@@ -4,3 +4,4 @@ Olá! Bem vindo ao meu livro de receitas :wine_glass:
 
 - Strogonoff
 - Pavê
+- Feijoada
